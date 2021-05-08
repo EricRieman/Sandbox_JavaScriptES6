@@ -1,10 +1,11 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import App from './App';
+// A place to learn the Javascript ES6 changes
 
-ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
-  document.getElementById('root')
-);
+function sayHello()
+{
+  for( var i = 0; i < 5; i++)
+    console.log(i);
+
+  console.log(i);
+}
+
+sayHello();
