@@ -1,0 +1,11 @@
+{
+    "recommendations": [ 
+        "msjsdiag.debugger-for-chrome",
+        "dsznajder.es7-react-js-snippets", 
+        "jpoissonnier.vscode-styled-components",
+        "mhutchie.git-graph",
+        "donjayamanne.githistory",
+        "alefragnani.project-manager",
+        "equimper.react-native-react-redux"
+     ]
+}
